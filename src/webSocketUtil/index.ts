@@ -3,7 +3,7 @@ import {
   DEFAULT_CHECK_COUNT,
   DEFAULT_CHECK_DATA,
   DEFAULT_CHECK_TIME,
-} from "./../constant/index";
+} from "../constant";
 import EventMap from "./eventMap";
 
 class Socket extends WebSocket {
