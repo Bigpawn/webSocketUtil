@@ -1,1 +1,3 @@
-export default 'Hello father 4!';
+import useSocket from "./webSocketUtil";
+
+export { useSocket };
